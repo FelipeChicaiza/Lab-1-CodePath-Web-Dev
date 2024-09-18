@@ -1,8 +1,12 @@
-Lab 1: Timetabled
-Overview
-In this project, you will build a grid-style calendar with one-hour events that plan out a single week. You must create the calendar for someone else. This can be a friend, family member, historical figure, role model, or imaginary person. Timetables can be informative, humorous, or exploratory.
+# Lab 1: Timetabled Overview
+================================
 
-Required Features
-A one-week calendar that includes one-hour time blocks
-Events have different titles
-Events have different colors based on their type
+## Project Description
+In this project, you will build a grid-style calendar with one-hour events that plan out a single week. The twist? You'll be creating the calendar for someone else - it could be a friend, family member, historical figure, role model, or even an imaginary person. The possibilities are endless! Timetables can be informative, humorous, or exploratory, so feel free to get creative.
+
+## Required Features
+To complete this project, your calendar must include the following features:
+
+* A one-week calendar that includes one-hour time blocks
+* Events with different titles
+* Events with different colors based on their type
